@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="gas" size="1.000000 0.833750" />
+    <ImageTarget name="ice" size="1.000000 0.889375" />
+    <ImageTarget name="water" size="1.000000 0.832967" />
+    <ImageTarget name="gelo" size="1.000000 0.750000" />
+    <ImageTarget name="nuvem" size="1.000000 0.665455" />
+    <ImageTarget name="agua" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
