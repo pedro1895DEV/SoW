@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1DziR1xLvOuL-MQuStd78wQgjCWeC0Sv9/view?usp=drive
 <img src="https://seletronic.com.br/wp-content/uploads/2018/12/ativar-instalacao-fontes-desconhecidas.jpg"/>
 <br>
 
-3° Após isso, clique em instalar e siga as instruções na aba <b>"Instruções"</b>
+3° Após isso, clique em instalar e siga as instruções na tela <b>"Instruções"</b>
 <br>
 
 ### :man_student:  Colaboradores
